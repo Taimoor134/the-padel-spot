@@ -1,10 +1,8 @@
-// components/PadelBookingPrototype.js
 export default function PadelBookingPrototype() {
   return (
     <div>
-      <h1>✅ Booking UI loaded!</h1>
-      {/* Add calendar, slots, etc here */}
-      <h2>TEST VERSION</h2>
+      <h1>🎾 Welcome to The Padel Spot Booking System</h1>
+      <p>This is the new booking UI. If you're seeing this, the update worked!</p>
     </div>
   );
 }
