@@ -1,5 +1,5 @@
 import PadelBookingPrototype from '../components/PadelBookingPrototype';
 
 export default function PadelPage() {
-  return <PadelBookingPrototype />;
+  return <div>Hello Padel Page</div>;
 }
