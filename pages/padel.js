@@ -1,4 +1,4 @@
-import PadelBookingPrototype from '@/components/PadelBookingPrototype'; // or adjust the path if not using jsconfig.json
+import PadelBookingPrototype from '../components/PadelBookingPrototype';
 
 export default function PadelPage() {
   return <PadelBookingPrototype />;
