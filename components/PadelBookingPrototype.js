@@ -1,8 +1,4 @@
 // components/PadelBookingPrototype.js
-
-import React from 'react';
-
-// components/PadelBookingPrototype.js
 export default function PadelBookingPrototype() {
   return (
     <div>
