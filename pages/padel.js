@@ -1,6 +1,3 @@
-import PadelBookingPrototype from "./padel";
-
-export default function Home() {
-  return <PadelBookingPrototype />;
+export default function PadelPage() {
+  return <div>Hello Padel Page</div>; // ✅ simple render to test
 }
-
