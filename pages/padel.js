@@ -4,6 +4,3 @@ export default function PadelPage() {
 export default function PadelPage() {
   return <h1>Padel Booking Page</h1>;
 }
-export default function PadelPage() {
-  return <h1>Padel Booking Page</h1>;
-}
